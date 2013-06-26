@@ -25,17 +25,17 @@
     <string name="logging">Logging</string>
     <string name="logging_summary">सभी Superuser logging अनुरोध के सक्षम या अक्षम करे</string>
     <string name="pin_protection">PIN द्वारा सुरक्षा</string>
-    <string name="pin_protection_summary">Require entry of a PIN to approve Superuser requests</string>
+    <string name="pin_protection_summary">Superuser के अनुरोधों को अनुमति देने के लिए PIN डालें </string>
     <string name="request_timeout">Request Timeout</string>
-    <string name="request_timeout_summary">Superuser requests will time out and be denied after %s seconds</string>
+    <string name="request_timeout_summary">Superuser का ये अनुरोध अगले %s seconds में ख़ारिज हो जायगा।</string>
     <string name="notifications">Notifications</string>
     <string name="none">None</string>
     <string name="notifications_summary">A %s will be shown when an app is granted or denied Superuser permissions</string>
-    <string name="enter_pin">Enter PIN</string>
-    <string name="enter_new_pin">Enter New PIN</string>
-    <string name="incorrect_pin">Incorrect PIN</string>
-    <string name="confirm_pin">Confirm PIN</string>
-    <string name="pin_mismatch">PIN did not match</string>
+    <string name="enter_pin">PIN डाल</string>
+    <string name="enter_new_pin">नया PIN डालें </string>
+    <string name="incorrect_pin">PIN गलत है</string>
+    <string name="confirm_pin">PIN की पुष्टि करें</string>
+    <string name="pin_mismatch">PIN समान नहीं हैं</string>
     <string name="pin_set">Superuser PIN protection enabled</string>
     <string name="number_seconds">%s seconds</string>
     <string name="superuser_granted">Superuser granted to %s</string>
@@ -84,7 +84,7 @@
     <string name="whats_new">क्या नया है</string>
     <string name="rate">मूल्यांकन करे</string>
     <string name="theme">थीम</string>
-    <string name="light">सफ़ेद</string>
+    <string name="light">सफ़ेद</string>
     <string name="dark">काला</string>
     <string name="pin_disabled">Superuser PIN protection disabled</string>
 </resources>
